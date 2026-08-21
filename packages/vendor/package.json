@@ -82,7 +82,7 @@
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
-    "@medusajs/ui-preset": "2.18.0",
+    "@medusajs/ui-preset": "2.19.0",
     "@types/react": "^18.3.2",
     "@types/react-dom": "^18.2.22",
     "autoprefixer": "^10.4.20",
